@@ -1,9 +1,5 @@
-dates:
-2023-01-01, New Year, contact
-2023-03-15, Project Start, traitement
-2023-05-20, Mid-Term Review, contact
-2023-07-30, Project End, traitement
-intervals:
-2023-02-01, 2023-02-10, Initial Research
-2023-04-01, 2023-04-15, Development Phase
-2023-04-15, 2023-12-31, Development Phase
+streamlit
+pandas
+matplotlib
+pillow
+numpy
